@@ -3,16 +3,6 @@
 dependencies: []
 
 galaxy_info:
-  author: igor.mukhin@gmail.com
+  author: contact@ether-source.fr
   description:
-  license: MIT
-  min_ansible_version: 1.4
-  platforms:
-  - name: Ubuntu
-    versions:
-    - all
-  - name: Debian
-    versions:
-    - all
-  categories:
-    - system
+  min_ansible_version: 2.9

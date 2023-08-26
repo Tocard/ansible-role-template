@@ -1,0 +1,9 @@
+ansible==4.7.0
+ansible-runner
+dnspython
+hvac
+jmespath
+netaddr
+paramiko
+passlib
+requests[security]

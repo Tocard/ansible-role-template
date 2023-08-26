@@ -1,9 +1,0 @@
----
-
-- hosts: all
-  sudo: true
-
-  vars:
-
-  roles:
-    - "../../igor_mukhin.___"
